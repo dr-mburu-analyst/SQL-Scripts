@@ -19,11 +19,11 @@
 
 ##### Tables
 
-**Owners**: Stores information about the dog owners (clients) including name, email, and phone number.
-**Dogs**: Stores information about the dogs including name, breed, and notes about specific characteristics.
-**Groomers**: Stores information about the groomers including phone number and email.
-**Appointments**: Stores information about the appointments including date, time, services offered, and status.
-**Billing**: Stores billing information associated with each appointment including the date and price.
+- **Owners**: Stores information about the dog owners (clients) including name, email, and phone number.
+- **Dogs**: Stores information about the dogs including name, breed, and notes about specific characteristics.
+- **Groomers**: Stores information about the groomers including phone number and email.
+- **Appointments**: Stores information about the appointments including date, time, services offered, and status.
+- **Billing**: Stores billing information associated with each appointment including the date and price.
 
 ##### Views
 
