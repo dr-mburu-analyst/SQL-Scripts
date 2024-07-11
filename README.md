@@ -1,6 +1,5 @@
-# SQL-Scripts
 
-## Daisy's Dog Groomers Database Project
+# Daisy's Dog Groomers Database Project
 
 ### Overview
 
