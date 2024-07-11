@@ -42,7 +42,7 @@
 
 - **SQL Scripts**: Contains SQL scripts for creating tables, views, and performing various queries.
 - **CSV Files**: Contains CSV files used for importing initial data into the database.
-- **Screenshots**:Contains screenshots of SQL code and query results used for presentation.
+- **Screenshots**: Contains screenshots of SQL code and query results used for presentation.
 
 ### Conclusion
 - This project successfully implements a comprehensive database for Daisy's Dog Groomers, streamlining their business operations and 
