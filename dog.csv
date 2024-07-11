@@ -1,0 +1,46 @@
+dog_id,owner_id,dog_name,dog_breed,dog_notes
+1,1,Luna,Golden Retriever,Biter
+2,2,Bella,German Shepherd,Barker
+3,3,Daisy,Poodle,Jumper
+4,3,Charlie,Bulldog,
+5,3,Teddy,Mix,Aggresive
+6,4,Tucker,Golden Retriever,
+7,5,Willow,Labrador,
+8,6,Penny,Mix,Barker
+9,7,Sadie,Bulldog,Aggresive
+10,8,Maggie,Yorkshire Terrier,
+11,9,Rosie,Boxer,
+12,9,Buddy,Mix,Barker
+13,10,Bear,Doberman Pinscher,Aggresive
+14,11,Rocky,Great Dane,Sensitive Skin
+15,12,Lucy,Rottweiler,Jumper
+16,13,Ruby,Pointer,
+17,14,Max,Dachshund,Aggresive
+18,15,Milo,Corgi,
+19,16,Cooper,Australian Shepherd,
+20,17,Leo,Boston Terrier,
+21,18,Bailey,Mix,Barker
+22,18,Stella,Cocker Spaniels,
+23,19,Max,Beagle,
+24,20,Charlie,Mix,
+25,21,Cooper,Pointer,Biter
+26,22,Milo,Dachshund,
+27,23,Buddy,Mix,Aggresive
+28,24,Rocky,Golden Retriever,
+29,25,Bear,Mix,
+30,26,Teddy,Poodle,
+31,27,Duke,Beagle,Jumper
+32,28,Leo,Labrador,
+33,29,Daisy,Pointer,
+34,30,Lucy,Dachshund,
+35,31,Lily,Cocker Spaniels,Barker
+36,32,Zoe,French Bulldog,
+37,33,Lola,Golden Retriever,
+38,34,Sadie,Mix,
+39,35,Cassini,Cocker Spaniels,Sensitive Skin
+40,37,Mossberg,Beagle,
+41,37,Mirabel,Rottweiler,Jumper
+42,38,Kyna,Labrador,
+43,39,Mommy,Dachshund,Biter
+44,40,Monka,Mix,
+45,41,Tohru,Boston Terrier,Barker
