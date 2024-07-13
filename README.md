@@ -26,7 +26,7 @@
 
 **Daisy's Dog Groomers ER Diagram**
 - The ER diagram shows how the tables are related.
-![Daisy's Dog Groomers]()
+![Daisy's Dog Groomers](images/Daisy's%20Dog%20Groomer's%20ER%20Diagram.png)
   
 ##### Views
 
