@@ -24,6 +24,10 @@
 - **Appointments**: Stores information about the appointments including date, time, services offered, and status.
 - **Billing**: Stores billing information associated with each appointment including the date and price.
 
+**Daisy's Dog Groomers ER Diagram**
+- The ER diagram shows how the tables are related.
+
+  
 ##### Views
 
 - **All Appointments**: Lists all appointments sorted by appointment date and time, showing the appointment date, dog owner name, and dog name.
